@@ -10,31 +10,30 @@ import About from './componenets/pages/About';
 import GithubState from './context/github/GithubState'
 import AlertState from './context/alert/AlertState'
 
-import './App.css';
 
 const App = () => {
 
     return (
         <GithubState>
             <AlertState>
-            <Router>
-                <div>
-                    <Navbar/>
-                    <div className="container">
-                        <Alert />
-                        <Switch>
-                            <Route exact path='/' render={()=> (
-                                <Fragment>
-                                    <Search />
-                                    <Users/>
-                                </Fragment>
-                            )}/>
-                            <Route exact path='/about' component={About}/>
-                            <Route exact path='/user/:login' component={User} />
-                        </Switch>
+                <Router>
+                    <div>
+                        <Navbar/>
+                        <div className="container">
+                            <Alert/>
+                            <Switch>
+                                <Route exact path='/' render={() => (
+                                    <Fragment>
+                                        <Search/>
+                                        <Users/>
+                                    </Fragment>
+                                )}/>
+                                <Route exact path='/about' component={About}/>
+                                <Route exact path='/user/:login' component={User}/>
+                            </Switch>
+                        </div>
                     </div>
-                </div>
-            </Router>
+                </Router>
             </AlertState>
         </GithubState>
     );
