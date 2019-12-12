@@ -4,21 +4,8 @@
     <list default="true" id="e90d733a-f1b5-4a35-94fc-ef4cfe626855" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/Layout/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/Layout/Alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/Layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/Layout/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/Layout/Spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/Layout/Spinner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/repos/Repoitem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/repos/Repoitem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/repos/Repos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/repos/Repos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componenets/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/users/Search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componenets/users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/users/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componenets/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componenets/users/Users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/AlertState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/AlertState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/alertContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/alertReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/github/GithubState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/github/githubContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/githubContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +88,7 @@
       <workItem from="1576052635093" duration="1576000" />
       <workItem from="1576158462670" duration="767000" />
       <workItem from="1576162505343" duration="6871000" />
-      <workItem from="1576174508913" duration="2412000" />
+      <workItem from="1576174508913" duration="2608000" />
     </task>
     <servers />
   </component>
@@ -113,5 +100,9 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="464" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1576174524417" />
+    <state x="636" y="267" width="647" height="518" key="find.popup" timestamp="1576177192954">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="636" y="267" width="647" height="518" key="find.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1576177192954" />
   </component>
 </project>

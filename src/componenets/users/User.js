@@ -34,7 +34,7 @@ const User = ({match}) => {
     if (loading === true) return <Spinner/>;
 
     return (
-        <Fragment>
+        <>
             <Link to='/' className="btn btn-light">
                 Back to Home
             </Link>
@@ -81,7 +81,7 @@ const User = ({match}) => {
                 <div className="badge badge-dark">Public Gists: {public_gists}</div>
             </div>
             <Repos repos={repos}/>
-        </Fragment>
+        </>
     );
 };
 
